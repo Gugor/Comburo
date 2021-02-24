@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b2d2f1cb85bb4ee697772a4c02f6656, type: 3}
+  m_Name: 2xEasyFire
+  m_EditorClassIdentifier: 
+  difficultyIsGlobal: 1
+  spawningMachineType: 1
+  startingSpawner: 0
+  offsetEveryOf: 2
+  useMaxLifeTime: 1
+  maxLifeTime: 5.4
+  timeBetweenSpawnings: 1
+  elementalSpeedModifier: 1
+  objectsToSpawnInCentripedSpawningSystem:
+  - name: FireElemental
+    spawneablePrefab: {fileID: 6502896870849837977, guid: 08b307703b4aa4247a2470cad6590fe2,
+      type: 3}
+    weight: 50
+  - name: WaterElemental
+    spawneablePrefab: {fileID: 4622647286517236073, guid: 16479be7b0126414ea74e4223dbe66a4,
+      type: 3}
+    weight: 50
+  useWaves: 0
+  waves: []
+  useCustomSpawners: 0
+  cutomSpawners: []

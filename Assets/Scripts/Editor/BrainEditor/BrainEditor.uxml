@@ -1,0 +1,31 @@
+﻿
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+	<ui:VisualElement name="Header" class="header">
+		<Style src="BrainEditor.uss" />
+		<ui:Label text="Brain Editor" name="BrainEditorLabel" class="headetTitle" />
+	</ui:VisualElement>
+	<ui:VisualElement name="DifficultySettings">
+		<Style src="BrainEditor.uss" />
+		<ui:Toggle name="RandomizeDifficulty" text="RandomizeDifficulty" value="false" focusable="true" usage-hints="None" class="checkBoxField" />
+		<ui:Slider label="CurrentDifficulty" value="42" high-value="100" name="CurrentDifficulty" class="slideField">
+			<ui:Label text="0.0" name="CurrentDifficultyDisplay" class="sliderNumericDisplayField" />
+		</ui:Slider>
+	</ui:VisualElement>
+	<ui:VisualElement name="Space10" class="space_10">
+		<Style src="BrainEditor.uss" />
+	</ui:VisualElement>
+	<ui:VisualElement name="DefaultDifficultyPool" class="sectionBoxed">
+		<Style src="BrainEditor.uss" />
+		<ui:Label text="Default Difficulty Pool" class="sectionBoxed-title"  />
+		<uie:ObjectField name="DeffaultDifficultyField" class="objectField" />
+	</ui:VisualElement>
+	<ui:VisualElement name="Space10" class="space_10">
+		<Style src="BrainEditor.uss" />
+	</ui:VisualElement>
+	<ui:VisualElement name="DifficultyModesPool">
+		<Style src="BrainEditor.uss" />
+		<ui:Foldout text="Resting Modes Pool" name="RestFullModesPool" focusable="true" value="false" class="listHeader" style="height: 35.33333px;" />
+		<ui:Foldout text="Active Modes Pool" name="ActiveModesPool" focusable="true" value="false" class="listHeader" />
+		<ui:Foldout text=" Intense Modes Pool" name="IntenseModesPool" focusable="true" value="false" class="listHeader" />
+	</ui:VisualElement>
+</ui:UXML>

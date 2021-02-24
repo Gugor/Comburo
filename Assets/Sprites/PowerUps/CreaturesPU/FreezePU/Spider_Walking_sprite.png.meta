@@ -1,0 +1,1163 @@
+fileFormatVersion: 2
+guid: 063d675c45e524e569a3d9e94000716f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2915436107541128418
+    second: V2FireCenterNegro_Idle_0
+  - first:
+      213: 125811032059922963
+    second: V2FireCenterNegro_Idle_1
+  - first:
+      213: -8083304119240898657
+    second: V2FireCenterNegro_Idle_2
+  - first:
+      213: 2790199416172370202
+    second: V2FireCenterNegro_Idle_3
+  - first:
+      213: -3890343495580195157
+    second: V2FireCenterNegro_Idle_4
+  - first:
+      213: -6514111518215009516
+    second: V2FireCenterNegro_Idle_5
+  - first:
+      213: 4882524731213168093
+    second: V2FireCenterNegro_Idle_6
+  - first:
+      213: 5442335029327787158
+    second: V2FireCenterNegro_Idle_7
+  - first:
+      213: -8147017767039754487
+    second: V2FireCenterNegro_Idle_8
+  - first:
+      213: 3911973520632177626
+    second: V2FireCenterNegro_Idle_9
+  - first:
+      213: 1353395264989570960
+    second: V2FireCenterNegro_Idle_10
+  - first:
+      213: 9072145084682797224
+    second: V2FireCenterNegro_Idle_11
+  - first:
+      213: -2229255008650917932
+    second: V2FireCenterNegro_Idle_12
+  - first:
+      213: 38601789807089091
+    second: V2FireCenterNegro_Idle_13
+  - first:
+      213: -8375374312033674285
+    second: V2FireCenterNegro_Idle_14
+  - first:
+      213: -3172347521990288046
+    second: V2FireCenterNegro_Idle_15
+  - first:
+      213: 2114447535716723744
+    second: V2FireCenterNegro_Idle_16
+  - first:
+      213: 3639377450690947085
+    second: V2FireCenterNegro_Idle_17
+  - first:
+      213: 3237143855734605835
+    second: V2FireCenterNegro_Idle_18
+  - first:
+      213: -3105742150746321070
+    second: V2FireCenterNegro_Idle_19
+  - first:
+      213: -3306579515273649953
+    second: V2FireCenterNegro_Idle_20
+  - first:
+      213: 1746826938078466045
+    second: V2FireCenterNegro_Idle_21
+  - first:
+      213: -1877960488300429961
+    second: V2FireCenterNegro_Idle_22
+  - first:
+      213: 2908588723729356003
+    second: V2FireCenterNegro_Idle_23
+  - first:
+      213: -1119520404941581044
+    second: V2FireCenterNegro_Idle_24
+  - first:
+      213: 8696198755779439547
+    second: V2FireCenterNegro_Idle_25
+  - first:
+      213: 1456966465145726475
+    second: V2FireCenterNegro_Idle_26
+  - first:
+      213: -1939353844197701864
+    second: V2FireCenterNegro_Idle_27
+  - first:
+      213: -1837175068230742463
+    second: V2FireCenterNegro_Idle_28
+  - first:
+      213: -4656102253903829291
+    second: V2FireCenterNegro_Idle_29
+  - first:
+      213: -2540778742987803805
+    second: V2FireCenterNegro_Idle_30
+  - first:
+      213: -6091775748127047218
+    second: V2FireCenterNegro_Idle_31
+  - first:
+      213: -1225168625446273472
+    second: V2FireCenterNegro_Idle_32
+  - first:
+      213: -648136150046504208
+    second: V2FireCenterNegro_Idle_33
+  - first:
+      213: 7534395707214810131
+    second: V2FireCenterNegro_Idle_34
+  - first:
+      213: -1792330753669154202
+    second: V2FireCenterNegro_Idle_35
+  - first:
+      213: 8758589348709352489
+    second: V2FireCenterNegro_Idle_36
+  - first:
+      213: 5782571125820796855
+    second: V2FireCenterNegro_Idle_37
+  - first:
+      213: -5596788659672084064
+    second: V2FireCenterNegro_Idle_38
+  - first:
+      213: -8920782509912879974
+    second: V2FireCenterNegro_Idle_39
+  - first:
+      213: -3470025841838630815
+    second: V2FireCenterNegro_Idle_40
+  - first:
+      213: -733575384047998837
+    second: V2FireCenterNegro_Idle_41
+  - first:
+      213: -3470456040825999279
+    second: V2FireCenterNegro_Idle_42
+  - first:
+      213: 5084591730777430607
+    second: V2FireCenterNegro_Idle_43
+  - first:
+      213: -4592580755281998875
+    second: V2FireCenterNegro_Idle_44
+  - first:
+      213: -6235040228231581387
+    second: V2FireCenterNegro_Idle_45
+  - first:
+      213: -4262479976073963913
+    second: V2FireCenterNegro_Idle_46
+  - first:
+      213: 9106043820465177813
+    second: V2FireCenterNegro_Idle_47
+  - first:
+      213: 4482792735267618762
+    second: V2FireCenterNegro_Idle_48
+  - first:
+      213: 644368521284973406
+    second: V2FireCenterNegro_Idle_49
+  - first:
+      213: -792939846736271493
+    second: V2FireCenterNegro_Idle_50
+  - first:
+      213: 218046018987717726
+    second: V2FireCenterNegro_Idle_51
+  - first:
+      213: -3970592404332556824
+    second: V2FireCenterNegro_Idle_52
+  - first:
+      213: -1781738156679912863
+    second: V2FireCenterNegro_Idle_53
+  - first:
+      213: 6350636281387547334
+    second: V2FireCenterNegro_Idle_54
+  - first:
+      213: 1185627637578600443
+    second: V2FireCenterNegro_Idle_55
+  - first:
+      213: 5267687329331111486
+    second: V2FireCenterNegro_Idle_56
+  - first:
+      213: -3967834897789571087
+    second: V2FireCenterNegro_Idle_57
+  - first:
+      213: -2584739643166207632
+    second: V2FireCenterNegro_Idle_58
+  - first:
+      213: 8792428916131422965
+    second: V2FireCenterNegro_Idle_59
+  - first:
+      213: -1467671148281946282
+    second: V2FireCenterNegro_Idle_60
+  - first:
+      213: 4124515980375012699
+    second: V2FireCenterNegro_Idle_61
+  - first:
+      213: 8462939653844914087
+    second: V2FireCenterNegro_Idle_62
+  - first:
+      213: 8108058626631361216
+    second: V2FireCenterNegro_Idle_63
+  - first:
+      213: 6311937022145104688
+    second: V2FireCenterNegro_Idle_64
+  - first:
+      213: 2640911911291425088
+    second: V2FireCenterNegro_Idle_65
+  - first:
+      213: 5328763885938503235
+    second: V2FireCenterNegro_Idle_66
+  - first:
+      213: 7735814533230794648
+    second: V2FireCenterNegro_Idle_67
+  - first:
+      213: -5915689184364451059
+    second: V2FireCenterNegro_Idle_68
+  - first:
+      213: 6354982752973929023
+    second: V2FireCenterNegro_Idle_69
+  - first:
+      213: -1961300271925977804
+    second: V2FireCenterNegro_Idle_70
+  - first:
+      213: 8661197500556990914
+    second: V2FireCenterNegro_Idle_71
+  - first:
+      213: -1560343047620755783
+    second: V2FireCenterNegro_Idle_72
+  - first:
+      213: 1975119808564970153
+    second: V2FireCenterNegro_Idle_73
+  - first:
+      213: -6653399671151663177
+    second: V2FireCenterNegro_Idle_74
+  - first:
+      213: 6396676264348812776
+    second: V2FireCenterNegro_Idle_75
+  - first:
+      213: -5364177055628237678
+    second: V2FireCenterNegro_Idle_76
+  - first:
+      213: -8733955378736293506
+    second: V2FireCenterNegro_Idle_77
+  - first:
+      213: 8612643755486035236
+    second: V2FireCenterNegro_Idle_78
+  - first:
+      213: -717189076370394884
+    second: V2FireCenterNegro_Idle_79
+  - first:
+      213: 5478849263613937133
+    second: V2FireCenterNegro_Idle_80
+  - first:
+      213: -372763144769472057
+    second: V2FireCenterNegro_Idle_81
+  - first:
+      213: -98352349975302604
+    second: V2FireCenterNegro_Idle_82
+  - first:
+      213: -4537176094067194998
+    second: V2FireCenterNegro_Idle_83
+  - first:
+      213: 3312158837501796326
+    second: V2FireCenterNegro_Idle_84
+  - first:
+      213: 7946739705632380775
+    second: V2FireCenterNegro_Idle_85
+  - first:
+      213: 5446728928836862135
+    second: V2FireCenterNegro_Idle_86
+  - first:
+      213: -5071823771687543344
+    second: V2FireCenterNegro_Idle_87
+  - first:
+      213: -8600413110358841812
+    second: V2FireCenterNegro_Idle_88
+  - first:
+      213: -2401711690275742006
+    second: V2FireCenterNegro_Idle_89
+  - first:
+      213: -1020457996976323774
+    second: V2FireCenterNegro_Idle_90
+  - first:
+      213: 5930711162751591532
+    second: V2FireCenterNegro_Idle_91
+  - first:
+      213: -358946251722204540
+    second: V2FireCenterNegro_Idle_92
+  - first:
+      213: -5676104765697653826
+    second: V2FireCenterNegro_Idle_93
+  - first:
+      213: -894625246064428132
+    second: V2FireCenterNegro_Idle_94
+  - first:
+      213: 4438800892083643680
+    second: V2FireCenterNegro_Idle_95
+  - first:
+      213: -8989524944839112235
+    second: V2FireCenterNegro_Idle_96
+  - first:
+      213: 4246947903894150762
+    second: V2FireCenterNegro_Idle_97
+  - first:
+      213: -8025123809235235504
+    second: V2FireCenterNegro_Idle_98
+  - first:
+      213: -6054173626045149263
+    second: V2FireCenterNegro_Idle_99
+  - first:
+      213: 2463678587177570352
+    second: V2FireCenterNegro_Idle_100
+  - first:
+      213: -8971452643063317153
+    second: V2FireCenterNegro_Idle_101
+  - first:
+      213: 8363887457348130913
+    second: V2FireCenterNegro_Idle_102
+  - first:
+      213: -5206332867390650816
+    second: V2FireCenterNegro_Idle_103
+  - first:
+      213: 3431335454660211303
+    second: V2FireCenterNegro_Idle_104
+  - first:
+      213: 4550989937523252659
+    second: V2FireCenterNegro_Idle_105
+  - first:
+      213: -2476319451390157321
+    second: V2FireCenterNegro_Idle_106
+  - first:
+      213: -7246461798878079755
+    second: V2FireCenterNegro_Idle_107
+  - first:
+      213: 6708965136940009559
+    second: V2FireCenterNegro_Idle_108
+  - first:
+      213: -1460364381845136800
+    second: V2FireCenterNegro_Idle_109
+  - first:
+      213: 4655962126634313718
+    second: V2FireCenterNegro_Idle_110
+  - first:
+      213: -1973509650196890145
+    second: V2FireCenterNegro_Idle_111
+  - first:
+      213: -5190446526727620102
+    second: V2FireCenterNegro_Idle_112
+  - first:
+      213: 1646355464878507374
+    second: V2FireCenterNegro_Idle_113
+  - first:
+      213: -5561565120385475715
+    second: V2FireCenterNegro_Idle_114
+  - first:
+      213: 765571966461814630
+    second: V2FireCenterNegro_Idle_115
+  - first:
+      213: 1654029643612617805
+    second: V2FireCenterNegro_Idle_116
+  - first:
+      213: -378447016401924231
+    second: V2FireCenterNegro_Idle_117
+  - first:
+      213: 4480142163513564531
+    second: V2FireCenterNegro_Idle_118
+  - first:
+      213: -884178377200388205
+    second: V2FireCenterNegro_Idle_119
+  - first:
+      213: 1735258813357382770
+    second: V2FireCenterNegro_Idle_120
+  - first:
+      213: -7986146651293838501
+    second: V2FireCenterNegro_Idle_121
+  - first:
+      213: 454326969355420722
+    second: V2FireCenterNegro_Idle_122
+  - first:
+      213: 5318866576388229509
+    second: V2FireCenterNegro_Idle_123
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4265371b5b57820800000000000000
+      internalID: 2915436107541128418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ac1c29778feb100800000000000000
+      internalID: 125811032059922963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97c1311bb552df80800000000000000
+      internalID: -8083304119240898657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19d47df597c8b620800000000000000
+      internalID: 2790199416172370202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e0b3e339b20ac0800000000000000
+      internalID: -3890343495580195157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8381661a3995a0800000000000000
+      internalID: -6514111518215009516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd3503df5632c340800000000000000
+      internalID: 4882524731213168093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6947fbbdfde078b40800000000000000
+      internalID: 5442335029327787158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9cc0718affee80800000000000000
+      internalID: -8147017767039754487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e304c03f1a4630800000000000000
+      internalID: 3911973520632177626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097266aa2d938c210800000000000000
+      internalID: 1353395264989570960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0035363ebb6ed70800000000000000
+      internalID: 9072145084682797224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70a9771681011e0800000000000000
+      internalID: -2229255008650917932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c555219f14298000800000000000000
+      internalID: 38601789807089091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1d461071b4cb80800000000000000
+      internalID: -8375374312033674285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d9daf8cbe89f3d0800000000000000
+      internalID: -3172347521990288046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c6896b4d6085d10800000000000000
+      internalID: 2114447535716723744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082008528aa18230800000000000000
+      internalID: 3639377450690947085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0846e78f25acec20800000000000000
+      internalID: 3237143855734605835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fcec408ff26e4d0800000000000000
+      internalID: -3105742150746321070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e78a237bac12d0800000000000000
+      internalID: -3306579515273649953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff004858d9fd3810800000000000000
+      internalID: 1746826938078466045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d32a0c2e420f5e0800000000000000
+      internalID: -1877960488300429961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4589ba8026d5820800000000000000
+      internalID: 2908588723729356003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d7a88f1aa670f0800000000000000
+      internalID: -1119520404941581044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb6d66a1ba1fa870800000000000000
+      internalID: 8696198755779439547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06eaacd74f283410800000000000000
+      internalID: 1456966465145726475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817cece24f70615e0800000000000000
+      internalID: -1939353844197701864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e07eb520b0186e0800000000000000
+      internalID: -1837175068230742463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6aa2e4ba3326fb0800000000000000
+      internalID: -4656102253903829291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V2FireCenterNegro_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633953e1375dbcd0800000000000000
+      internalID: -2540778742987803805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3371ef51192774798bc718dc0f35f079
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
